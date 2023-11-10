@@ -1,0 +1,100 @@
+/* Скидання дефолтних значень */
+.list {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+
+.text-logo {
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+
+.munu-link {
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.menu-link:hover,
+.munu-link:focus {
+    color: #404BBF;
+}
+
+.link-contacts {
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+
+    letter-spacing: 0.02em;
+}
+
+.link-contacts:hover,
+.link-contacts:focus {
+    color: #404BBF;
+}
+
+.hero {
+    background: #2E2F42;
+}
+
+.hero-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+
+.hero-buttom {
+    color: #FFF;
+    background-color: #4D5AE5;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.64px;
+}
+
+.hero-buttom:hover,
+.hero-buttom:focus {
+    background-color: #404BBF;
+}
