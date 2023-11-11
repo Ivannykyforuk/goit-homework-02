@@ -53,7 +53,8 @@ body {
 }
 
 .menu-item:hover,
-.menu-item:focus {
+.menu-item:focus,
+.menu-item:active {
     color: #404BBF;
 }
 
