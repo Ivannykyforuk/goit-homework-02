@@ -54,11 +54,12 @@ body {
 
 .menu-item:hover,
 .menu-item:focus,
-.menu-item:active {
+/* .menu-item:active  */
+    {
     color: #404BBF;
 }
 
-.munu-link {
+.menu-link {
     font-weight: 500;
     font-size: 16px;
     font-weight: 500;
