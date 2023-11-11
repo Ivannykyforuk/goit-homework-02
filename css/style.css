@@ -43,6 +43,20 @@ body {
 }
 
 /* Навігаційне меню */
+.menu-item {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.02em;
+    color: #2E2F42
+}
+
+.menu-item:hover,
+.menu-item:focus {
+    color: color: #2E2F42;
+}
+
 .munu-link {
     font-weight: 500;
     font-size: 16px;
